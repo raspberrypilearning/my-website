@@ -28,10 +28,10 @@ Another page with some images on it.
 Your website could also have:
 
 --- task ---
-something
+A photo gallery
 --- /task ---
 --- task ---
-something
+A YouTube video
 --- /task ---
 
 ### Now you are a web developer!
