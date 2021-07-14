@@ -170,19 +170,19 @@ Here are a few border styles:
     dotted
 </div>
 
-<div style="border: 2px dotted black; float: left; margin-right: 5px;">
+<div style="border: 2px dashed black; float: left; margin-right: 5px;">
     dashed
 </div>
 
-<div style="border: 2px dotted black; float: left; margin-right: 5px;">
+<div style="border: 2px solid black; float: left; margin-right: 5px;">
     solid
 </div>
 
-<div style="border: 2px dotted black; float: left; margin-right: 5px;">
+<div style="border: 2px double black; float: left; margin-right: 5px;">
     double
 </div>
 
-<div style="border: 2px dotted black; float: left; margin-right: 5px;">
+<div style="border: 2px groove black; float: left; margin-right: 5px;">
     groove
 </div>
 </html>
