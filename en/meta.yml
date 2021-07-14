@@ -1,11 +1,17 @@
-title: my-website
+title: My website
 hero_image: images/banner.png
-description: my-website description
+description: Build a website of your own design.
 version: 4
 listed: false
 copyedit: false
-last_tested: "2021-07-14"
+last_tested: "2021-03-26"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Your idea
+  - title: Build a page template
+  - title: Give your template some style
+  - title: Make some pages
+  - title: Fill your pages
+  - title: Upgrade your project
+  - title: Reflect
   - title: What next?

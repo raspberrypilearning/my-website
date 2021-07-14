@@ -1,23 +1,36 @@
-## Step title
+## Your idea
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Do you have an idea for your website? You could make it about things like:
 
---- task ---
+  + Your favourite sports team
+  + The music you like
+  + A hobby you enjoy
+  + A cause you care about
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
+### Why are you making the website?
 
 --- task ---
 
-Step content...
+Think about the purpose of your website.
+
+It could be:
+  + To share interesting information with other people who are also interested in that thing
+  + To introduce people who don't know about it to something they might want to learn about
 
 --- /task ---
 
---- save ---
+### Plan your website
+
+--- task ---
+
+Think about the topic you have chosen, the project brief, and the HTML and CSS you have learned from the previous projects in [this pathway](#). What kinds of pages would help people learn about that topic? Can you write a short introduction to it, find some pictures, and maybe a YouTube video, that will help them understand your chosen topic?
+
+--- /task ---
+
+### Get started
+
+--- task ---
+
+If you're using Trinket in your browser, open [the template](#){:target="_blank"} and remix it. If you're working on your computer, download [the starter files](rpf.io/p/en/scam-site-get), unzip them, and open them in your editor of choice.
+
+--- /task ---
