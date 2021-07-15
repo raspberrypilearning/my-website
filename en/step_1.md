@@ -49,6 +49,10 @@ Your website could:
 
 Think about what you want your site to be about, and what kinds of pages would be best for sharing that, as you investigate these example projects to get more ideas:
 
+**Recepie collection**: A collection of links and videos of recepies the creator loves to cook.
+<iframe src="https://trinket.io/embed/html/df53bb4459" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
 <mark>Please save what you build, oh beneficient project tester, and share it with me so I may add it to this gallery.</mark>
 
 --- /task ---

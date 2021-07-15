@@ -31,6 +31,6 @@ Think about the topic you have chosen, the project brief, and the HTML and CSS y
 
 --- task ---
 
-If you're using Trinket in your browser, open [the template](#){:target="_blank"} and remix it. If you're working on your computer, download [the starter files](rpf.io/p/en/scam-site-get), unzip them, and open them in your editor of choice.
+If you're using Trinket in your browser, open [the template](https://trinket.io/html/a1dfe36d63){:target="_blank"} and remix it. If you're working on your computer, download [the starter files](rpf.io/p/en/my-website-get), unzip them, and open them in your editor of choice.
 
 --- /task ---

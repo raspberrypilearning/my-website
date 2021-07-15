@@ -8,6 +8,8 @@ Add all the common parts of the site to your template:
   + Include a header, so people know what the site is about
   + Include a location for the main content of the page — which will change for each page based on your template
 
+![A page with a title and a menu]('images/step_3_preveiw.png')
+
 --- task ---
 
 Create a `template.html` page in your website and add the `container`, `header`, `nav`, and `main` `div` tags.
@@ -136,9 +138,11 @@ You can set the `width` and `height` properties of a HTML element:
 ```css
 .my_class{
     height: 150px;
-    width: 200px;
+    width: 90%;
 }
 ```
+
+**Tip**: You can set these properties with `px`, which won't adjust based on the visitors screen, or with `%` which will. You may want to use a mix of both to achieve the effect you want.
 
 --- /collapse ---
 
