@@ -2,6 +2,12 @@
 
 Now that they have the template in place, you can add the page-specific elements to your page.
 
+![A photo gallery page featuring pictures of a dog]('images/step_6_preview_photos')
+
+![A page with an embedded YouTube video]('images/step_6_preview_video')
+
+![A page that has a list and an image on it]('images/step_6_preview_photos')
+
 --- task ---
 
 Use the HTML and CSS you've learned to create your website's homepage, as well as the extra page you planned.

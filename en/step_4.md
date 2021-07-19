@@ -2,6 +2,10 @@
 
 Now that you have the shape of a template, add colour and style to it with CSS.
 
+![A page with a title and a menu. The background is blue, with a green content box, a white heading, and a green dotted border around a menu with black text.]('images/step_4_preveiw.png')
+
+![A page with a title and a menu. The background is gold, with a white content box, a purple heading, and a menu with a yellow background and black text.]('images/step_4_preveiw_2.png')
+
 --- task ---
 
 Use some CSS rules in your `style.css` file to add colour to your page, and maybe change the size and font of the text you're using. Remember that you can apply rules to all copies of a tag on your page, or you can use classes to target only specific elements.
@@ -127,6 +131,21 @@ You can set font sizes like this:
 ```css
 .my_class{
     font-size: large;
+}
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Aligning text with CSS
+---
+
+The `text-align` property can be used to control whether text is positioned to the `left`, `right`, or `center` of its parent element.
+
+```css
+.my_class{
+    text-align: center;
 }
 ```
 
